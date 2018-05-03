@@ -1,3 +1,7 @@
 test rm
 git stash
+<<<<<<< HEAD
 hello remote
+=======
+add /usr/bin/env python3
+>>>>>>> 4ba2fee8a305164c5c9f5bf065dd2805cb675e99
