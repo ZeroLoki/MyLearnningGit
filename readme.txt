@@ -5,4 +5,6 @@ Git tracks changes
 
 icreating a new branch is quick AND SIMPLE.
 
-add merge
+iadd merge
+
+fix bug 101
